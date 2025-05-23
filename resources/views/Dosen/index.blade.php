@@ -5,7 +5,8 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header"><a href="/dosen/tambah" class="btn btn-primary btn-sm"><i class="fa-solid fa-user-plus"></i>Tambah Data</a></div>
+                <div class="card-header">
+                    <a href="/dosen/tambah" class="btn btn-primary btn-sm"><i class="fa-solid fa-user-plus"></i>Tambah Data</a></div>
 
                 <div class="card-body">
 
